@@ -1,0 +1,5 @@
+{
+  "name": "AI Step-by-Step Drawing Automator",
+  "description": "An application to automate the creation of step-by-step drawing tutorials. Users can enter a prompt, and the AI will generate a vector-based drawing, separate it into individual strokes, and allow for exporting as an image or video.",
+  "requestFramePermissions": []
+}
